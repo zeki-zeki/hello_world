@@ -5,6 +5,3 @@ Hello, Torno's restaurant.
 Hello, I want to place an delivery order.
 Okay, can I have your address and nearest cross streets?
 Uh...
-
-
-Try the revert.
